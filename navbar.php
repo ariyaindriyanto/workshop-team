@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-lg navbar-dark bg-info">
+<nav class="navbar navbar-expand-lg fixed-top navbar-dark bg-info">
 <div class="container">
   <a class="navbar-brand" href="#">Workshop GIT</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -20,5 +20,8 @@
       </li>
     </ul>
   </div>
+  <form class="form-inline">
+    <button class="btn btn-dark my-2 my-sm-0" type="submit">Sign In</button>
+  </form>
   </div>
 </nav>
