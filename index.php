@@ -10,7 +10,7 @@
 
 <?php require_once('testimoni.php'); ?>
 
-<?php require_once('subscribe.php'); ?>
+<?php require_once('subscibe.php'); ?>
 
 <?php require_once('footer.php'); ?>
 
