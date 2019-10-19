@@ -6,4 +6,6 @@
 
 
 
+
+
 <?php require_once('core/footer.php'); ?>
