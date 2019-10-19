@@ -12,12 +12,5 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/froala-editor@2.9.1/css/froala_editor.pkgd.min.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/froala-editor@2.9.1/css/froala_style.min.css">
 </head>
-<<<<<<< HEAD
-<body>
-
-
-    
-=======
 
 <body>
->>>>>>> a90009e8822b3b143b2929ac91965a21a5de4044
