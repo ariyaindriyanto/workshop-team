@@ -10,10 +10,10 @@
         <a class="nav-link" href="#"><i class="fa fa-home"></i> Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Subscribe</a>
+        <a class="nav-link" href="#"><i class="fa fa-feature"></i> Subscribe</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="#">Detail</a>
+        <a class="nav-link" href="#"> <i class="fa fa-feature"></i> Detail</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Feature</a>
